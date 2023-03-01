@@ -1,0 +1,80 @@
+<head>
+    <title>tugas Kenny</title>
+</head>
+<style>
+    table, th, td {
+      border:1px solid black;
+    }
+    </style>
+
+<body >
+<h1 style="color:tomato">SEJARAH GAME ONLINE</h1>
+<img src="game.jpg">
+<p align="center">Jadi awalnya game online ini ditujukan untuk dua orang pemain, yang tujuannya juga untuk mendidik. Game online dimulai pada tahun 1969 ketika game dua pemain awalnya dikembangkan sebagai game edukasi.
+    Kemudian, pada awal tahun 1970-an, sebuah sistem dengan kemampuan pembagian waktu yang disebut Plato dikembangkan untuk memfasilitasi pembelajaran online bagi siswa, yang memungkinkan banyak pengguna menggunakan komputer pada saat yang sama sesuai kebutuhan.
+    Dua tahun kemudian, muncul Plato IV dengan fitur grafik baru yang digunakan untuk membuat game untuk banyak pemain (multiplayer). Game online benar-benar lepas landas setelah tahun 1995, ketika pembatasan NSFNET (National Science Foundation Network) dicabut, membuat akses Internet ke seluruh domain.
+</p>
+<p><i>Game online benar-benar lepas landas setelah tahun 1995, ketika pembatasan NSFNET (National Science Foundation Network) dicabut, membuat akses Internet ke seluruh domain. Kesuksesan finansial mencapai perusahaan yang membawa game ini ke pasar, meningkatkan persaingan dan memungkinkan game online berkembang hingga hari ini.
+    Pada 1980-an, Roy Trubshaw dan Bartle Richard mengembangkan Multi-User Dungeon ( MUD ) pertama pada 10 Desember di University of Essex, Colchester, Inggris. Hal yang dianggap sebagai MUD "klasik", MUD dipasang dan beroperasi selama sembilan tahun. 
+    Belakangan, popularitas game tersebut di kalangan peretas dan non-peretas sama-sama mengakibatkan konsumsi sumber daya komputasi pada tingkat yang luar biasa, dan universitas membatasi waktu bermain hingga jam malam.
+    Meskipun kode MUD memiliki hak cipta, Bartle cukup liberal dalam mendistribusikannya ke perguruan tinggi dan universitas untuk tujuan pendidikan. Seseorang dari salah satu agensi mulai berbagi kode sumber dengan teman-temannya
+</i>
+</p>
+<p><b>Sejak itu, banyak perusahaan bahkan individu telah mengembangkan game online yang dapat dimainkan secara gratis atau berbayar. Apalagi sekarang orang yang membuat game online bisa menjualnya di Google Play Store.
+    Google Play Store adalah tempat di mana kamu dapat mengunduh dan membeli berbagai aplikasi seperti game. Kamu dapat mengunduh dan menginstal ratusan game online di perangkatmu
+    Game online pertama kali muncul di Indonesia pada tahun 2001 ketika BolehGame dirilis Nexia Online, sebuah game RPG dengan grafis sederhana berbasis 2D. Nexia memiliki kebutuhan komputer yang relatif rendah, bahkan bisa dimainkan di Pentium 2 dengan grafis minimal 3D.
+    Game asal Korea ini berhasil menghadirkan game dan chat pertama di Indonesia. Sayangnya, game tersebut dibatalkan pada tahun 2004 karena lisensi yang tidak diperpanjang.
+    Sejak saat itu, dunia game online di Indonesia berkembang dengan beberapa provider game baru seperti Redmoon (2002), Laghaim di awal tahun 2003, Ragnarok Online (RO) di pertengahan tahun 2003 dan Gunbound di tahun 2004.
+    Ragnarok Online (RO) adalah salah satu game online paling menakutkan di game online Indonesia. Game yang dirilis pada Mei 2003 ini memang sangat ditunggu-tunggu oleh banyak pemain dan sudah sukses di luar negeri.
+    Game ini langsung menarik perhatian banyak orang dan berhasil mempopulerkan game online hingga sempat mengacaukan koneksi internet di Indonesia karena bandwidth yang tersedia saat itu tidak mencukupi.
+</b>
+</p>
+
+<p>berikut beeberapa info tambahan seputar game</p>
+
+<p>berikut adalah list game populer</p>
+<ul>
+    <li>Dota 2</li>
+    <li>League of Legends</li>
+    <li>Rainbow six siege</li>
+    <li>Valorant</li>
+</ul>
+
+<p>berikut adalah list game berbayar terlaris</p>
+<ul>
+    <li>Grand Theft Auto : San Andreas</li>
+    <li>Minecraft</li>
+    <li>Hitman Sniper</li>
+    <li>Farming simulator</li>
+    <li>Call of Duty Black Ops Zombbie</li>
+</ul>
+
+<table style="width:100%">
+<tr>
+    <th>Game</th>
+    <th>Developer</th>
+</tr>
+<tr>
+    <td>GTA : San Andreas</td>
+    <td>Rocstar Games</td>
+</tr>
+<tr>
+    <td>Minecraft</td>
+    <td>Mojang Studios</td>
+</tr>
+<tr>
+    <td>Wii Sport</td>
+    <td>Nintendo  EAD</td>
+</tr>
+<tr>
+    <td>PUBG Battlegrounds</td>
+    <td>PUBG Corporation</td>
+</tr>
+<tr>
+    <td>Super Mario</td>
+    <td>NIntendo R&D4</td>
+</tr>
+</table>
+
+<p>mainkan game gratis <a href="https://www.games.co.id/">disini</a></p>
+</body>
